@@ -1,0 +1,20 @@
+.App {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.card {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+  text-align: center !important;
+  margin: 5% 5% 5% 5%;
+}
+.card-header {
+  display: flex !important;
+  text-align: center !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
